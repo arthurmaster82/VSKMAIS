@@ -35,12 +35,12 @@ const Section2Empresa: React.FunctionComponent<ISection2EmpresaProps> = props =>
 					<div className="p-10 bg-[#004959] flex items-end justify-between text-[#00E4EF] ml-12">
 						<p className="text-2xl">
 							Estamos aqui para apoiar <br /> uma nova
-							geração <br /> de empreendores <br /> do
+							geração <br /> de Empreendedores <br /> do
 							novo mundo.
 						</p>
 
 						<button className="btn bg-[#00E4EF] btn-sm hover:bg-[#00b5be] text-black rounded-none">
-							Comece agora
+							Comece Agora
 						</button>
 					</div>
 				</div>

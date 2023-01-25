@@ -13,7 +13,7 @@ const Sectio3About: React.FunctionComponent<ISectio3AboutProps> = props => {
 					Gerencie todas as finanças <br /> em um só lugar
 				</h2>
 				<h6 className="lg:text-2xl text-xl text-center mt-8">
-					Assuma O Controle
+					Assuma o Controle
 				</h6>
 
 				<div className="flex flex-col justify-center items-center gap-16 mt-10">
@@ -29,7 +29,7 @@ const Sectio3About: React.FunctionComponent<ISectio3AboutProps> = props => {
 							personalizados, com limite de gastos diários
 							ou mensais, e gerencie todas as transações
 							na tela do seu celular, com a certeza que
-							está usufruindo de tudo o pode.
+							está usufruindo de tudo que pode.
 						</div>
 					</div>
 				</div>

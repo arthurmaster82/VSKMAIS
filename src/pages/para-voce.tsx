@@ -12,8 +12,7 @@ const Section4About = dynamic(() => import('@/components/landing-about/Section4A
 const Section5About = dynamic(() => import('@/components/landing-about/Section5About'));
 const Section6About = dynamic(() => import('@/components/landing-about/Section6About'));
 const Section7About = dynamic(() => import('@/components/landing-about/Section7About'));
-const Section8About = dynamic(() => import('@/components/landing-about/Section8About'));
-const Section9About = dynamic(() => import('@/components/landing-about/Section9About'));
+
 
 interface IParaVoceProps {}
 
@@ -29,8 +28,6 @@ const ParaVoce: NextPage<IParaVoceProps> = props => {
 			<Section5About />
 			<Section6About />
 			<Section7About />
-			<Section8About />
-			<Section9About />
 			<Section7Home />
 		</Container>
 	);
