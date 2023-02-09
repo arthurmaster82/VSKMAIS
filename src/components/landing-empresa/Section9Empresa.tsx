@@ -9,7 +9,7 @@ const Section9Empresa: React.FunctionComponent<ISection9EmpresaProps> = props =>
 		<div className="bg-black px-8 py-36 lg:pt-56">
 			<div className="container text-center text-white text-3xl">
 				<h2>
-					Abra agora a sua conta VSK, <br /> ative seu cartao virtual
+					Abra agora a sua conta digital VSK, <br /> ative seu cartao virtual
 					e <span className="text-info">Seja Mais.</span>
 				</h2>
 

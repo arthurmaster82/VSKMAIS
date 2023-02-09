@@ -20,7 +20,7 @@ const Section2Empresa: React.FunctionComponent<ISection2EmpresaProps> = props =>
 
 					<p>
 						Nós mudamos e o mundo mudou, é hora de dar um VSK
-						MAIS no seu relacionamento bancário empresarial, com
+						MAIS no seu relacionamento digital empresarial, com
 						um nível de confiança extra de quem quer ir MAIS
 						longe.
 					</p>

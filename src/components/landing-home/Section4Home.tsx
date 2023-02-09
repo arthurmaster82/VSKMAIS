@@ -34,7 +34,7 @@ const Section4Home: React.FunctionComponent<ISection4HomeProps> = props => {
 							<p className="text-lg">
 								Nós mudamos e o mundo mudou, é hora
 								de dar um Vsk Mais no seu
-								relacionamento bancário empresarial,
+								relacionamento digital empresarial,
 								com um nível de confiança extra de
 								quem quer ir mais longe.
 							</p>

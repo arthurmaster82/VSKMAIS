@@ -27,8 +27,8 @@ const Section1Home: React.FunctionComponent<ISection1HomeProps> = props => {
 					</h2>
 
 					<p className="text-slate-200 text-lg">
-						O Mobile Bank que ajuda a cuidar da sua conta
-						bancária, <br /> planejar suas despesas e gerenciar
+						A plataformna digital que ajuda a cuidar da sua conta
+						digital, <br /> planejar suas despesas e gerenciar
 						seus lucros, com facilidade e transparência total.
 					</p>
 				</div>
